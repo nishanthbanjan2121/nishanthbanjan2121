@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nishu2103
+- 👋 Hi, I’m Nishanth Banjan
 - 👀 I’m interested in coding
 - 🌱 I am currently pursuing an integrated B.Tech in CSE and MBA from Nirma University
 - 📫 gmail-nishantbanjan210306@gmail.com
